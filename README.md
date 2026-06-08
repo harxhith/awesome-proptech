@@ -55,6 +55,10 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [Mashvisor API](https://www.mashvisor.com/api) - Deep analytics specifically tailored for short-term rentals (Airbnb/VRBO) vs traditional long-term rentals.
 * [HouseCanary](https://www.housecanary.com/) - Advanced AVMs and predictive analytics for institutional investors.
 
+### 🤖 AI Agent Tools & Infrastructure
+
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for autonomous real estate and proptech AI agents. Verify agent wallet identity before x402 micropayment property data access. Tools: `score_agent(wallet)`, `preflight_check(wallet)`, `get_trust_receipt(wallet)`. Zero-install MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ### 📊 Open Datasets & Research
 For data scientists looking to train machine learning models or analyze macro-economic housing trends.
 
