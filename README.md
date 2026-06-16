@@ -54,6 +54,7 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [CoreLogic](https://www.corelogic.com/) - The massive data provider used by actual banks and mortgage lenders for underwriting and risk assessment.
 * [Mashvisor API](https://www.mashvisor.com/api) - Deep analytics specifically tailored for short-term rentals (Airbnb/VRBO) vs traditional long-term rentals.
 * [HouseCanary](https://www.housecanary.com/) - Advanced AVMs and predictive analytics for institutional investors.
+* [Superhighway](https://superhighway.walls.sh/guides/proptech-research-agent) - Live web search API for building Python agents that research PropTech markets, CRE platform landscapes (Yardi/MRI/RealPage/AppFolio), smart building tech, and real estate fintech. Pay-per-call with USDC via x402 — no signup required.
 
 ### 📊 Open Datasets & Research
 For data scientists looking to train machine learning models or analyze macro-economic housing trends.
