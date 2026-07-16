@@ -78,6 +78,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 ### 🛠️ Open Source Real Estate Tools
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/) - Vital open-source mapping data for building real estate geographic information systems (GIS).
 * [Leaflet.js](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive property maps.
+* [Zornade Studio](https://github.com/zornade/zornade-studio) - AGPL-3.0 no-code map editor built on MapLibre GL JS, used to publish the parcel-level risk and price maps behind [Zornade](https://app.zornade.com)'s Italian cadastral intelligence platform.
 
 ### 📰 PropTech News & Newsletters
 Stay up to date with the engineering and business side of real estate technology.
