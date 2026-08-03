@@ -80,6 +80,9 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [Leaflet.js](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive property maps.
 * [Zornade Studio](https://github.com/zornade/zornade-studio) - AGPL-3.0 no-code map editor built on MapLibre GL JS, used to publish the parcel-level risk and price maps behind [Zornade](https://app.zornade.com)'s Italian cadastral intelligence platform.
 
+### AI Tools
+* [Agent Skills Work](https://agentskills.work/) - Professional no-code AI tools for real estate teams and business owners.
+
 ### 📰 PropTech News & Newsletters
 Stay up to date with the engineering and business side of real estate technology.
 * [Geek Estate Blog](https://geekestateblog.com/) - Deep technical and business analysis of the PropTech ecosystem.
@@ -101,7 +104,3 @@ Please ensure your pull request adheres to the [Awesome List Guidelines](https:/
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
-
-
-## AI Tools
-- [Agent Skills Work](https://agentskills.work/) - Professional no-code AI tools for real estate teams and business owners.
